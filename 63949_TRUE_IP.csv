@@ -1,0 +1,74 @@
+﻿IP地址,端口,TLS,数据中心,国家,地区,城市,ASN,ORG,延迟(ms),速度(MB/s)
+139.162.9.77,2053,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,338,19.71
+139.162.62.39,443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,435,19.24
+139.162.33.58,443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,315,18.43
+172.104.189.251,2053,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,354,11.54
+139.162.32.21,8443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,355,10.79
+139.162.22.120,443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,366,10.28
+172.232.226.134,8443,TRUE,CGK,ID,Asia Pacific,Jakarta,63949,Akamai Connected Cloud,396,9.76
+172.232.226.134,2087,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,393,8.78
+172.104.191.203,443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,352,7.68
+172.232.251.185,8443,TRUE,CGK,ID,Asia Pacific,Jakarta,63949,Akamai Connected Cloud,394,3.85
+139.162.9.77,8443,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,339,3.62
+172.232.251.185,2053,TRUE,CGK,ID,Asia Pacific,Jakarta,63949,Akamai Connected Cloud,393,3.00
+139.162.148.153,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,784,2.42
+139.162.48.174,10000,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,323,1.51
+139.162.145.35,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,810,1.38
+139.162.148.153,2096,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,779,1.28
+172.105.77.26,9001,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,800,1.17
+139.162.148.153,8443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,805,1.13
+139.162.30.13,449,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,333,1.06
+139.162.32.21,2063,TRUE,SIN,SG,Asia Pacific,Singapore,63949,Akamai Connected Cloud,342,0.74
+66.175.208.74,2053,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,871,0.58
+45.79.147.129,2053,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,884,0.57
+139.162.181.39,443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,827,0.47
+66.228.47.232,443,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,850,0.46
+139.162.148.153,2083,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,830,0.46
+139.162.148.153,2087,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,804,0.44
+143.42.17.72,145,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,823,0.36
+143.42.17.72,2083,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,817,0.35
+172.104.249.170,443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,935,0.34
+172.104.234.201,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,792,0.29
+45.79.168.17,443,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,890,0.29
+50.116.63.40,2052,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,863,0.29
+143.42.17.72,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,809,0.28
+172.105.244.109,443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,813,0.27
+139.162.133.162,25294,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,988,0.24
+50.116.63.40,8880,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,881,0.23
+139.162.152.43,2087,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,842,0.22
+143.42.187.209,443,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,908,0.21
+172.104.153.126,8443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,808,0.20
+139.162.152.43,443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,833,0.19
+172.234.96.88,2096,TRUE,ARN,SE,Europe,Stockholm,63949,Akamai Connected Cloud,893,0.14
+66.175.208.74,8443,TRUE,EWR,US,North America,Newark,63949,Akamai Connected Cloud,887,0.14
+172.105.24.31,443,TRUE,YYZ,CA,North America,Toronto,63949,Akamai Connected Cloud,923,0.12
+172.233.179.62,2053,TRUE,MIA,US,North America,Miami,63949,Akamai Connected Cloud,987,0.11
+172.232.152.114,443,TRUE,OSL,NO,Europe,Oslo,63949,Akamai Connected Cloud,963,0.11
+139.162.133.162,20548,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,960,0.10
+172.232.139.238,2053,TRUE,ARN,SE,Europe,Stockholm,63949,Akamai Connected Cloud,938,0.10
+172.104.141.216,8443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,820,0.08
+139.144.67.50,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,802,0.07
+139.162.133.162,25351,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,985,0.07
+172.233.47.166,8880,TRUE,AMS,NL,Europe,Amsterdam,63949,Akamai Connected Cloud,840,0.07
+139.162.157.23,443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,848,0.06
+172.105.77.26,8090,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,835,0.06
+172.105.249.239,2096,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,889,0.06
+172.233.46.207,443,TRUE,AMS,NL,Europe,Amsterdam,63949,Akamai Connected Cloud,998,0.06
+139.162.133.162,48805,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,967,0.05
+172.104.141.216,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,798,0.05
+172.104.234.77,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,794,0.05
+172.234.96.88,8443,TRUE,ARN,SE,Europe,Stockholm,63949,Akamai Connected Cloud,943,0.05
+172.232.194.211,8443,TRUE,MXP,IT,Europe,Milan,63949,Akamai Connected Cloud,932,0.04
+172.234.221.184,2053,TRUE,ORD,US,North America,Chicago,63949,Akamai Connected Cloud,873,0.04
+139.162.145.35,8443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,817,0.04
+139.162.134.17,2053,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,815,0.03
+172.232.56.73,2083,TRUE,CDG,FR,Europe,Paris,63949,Akamai Connected Cloud,843,0.03
+139.162.134.17,8443,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,833,0.03
+45.79.248.38,2096,TRUE,FRA,DE,Europe,Frankfurt,63949,Akamai Connected Cloud,795,0.02
+172.233.49.21,8880,TRUE,AMS,NL,Europe,Amsterdam,63949,Akamai Connected Cloud,827,0.02
+170.187.145.44,443,TRUE,ATL,US,North America,Atlanta,63949,Akamai Connected Cloud,913,0.02
+172.233.164.83,443,TRUE,MIA,US,North America,Miami,63949,Akamai Connected Cloud,953,0.02
+139.144.203.164,2053,TRUE,IAD,US,North America,Ashburn,63949,Akamai Connected Cloud,952,0.01
+2400:8902:e001:11b:fff3:e83e:83e2:4,443,TRUE,NRT,JP,Asia Pacific,Tokyo,63949,Akamai Connected Cloud,421,0.01
+172.232.36.55,8443,TRUE,CDG,FR,Europe,Paris,63949,Akamai Connected Cloud,853,0.01
+172.233.245.218,8880,TRUE,CDG,FR,Europe,Paris,63949,Akamai Connected Cloud,838,0.01
